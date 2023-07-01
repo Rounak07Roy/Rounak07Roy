@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/rounakr56165246" target="blank"><img src="https://img.shields.io/twitter/follow/rounakr56165246?logo=twitter&style=for-the-badge" alt="rounakr56165246" /></a> </p>
 <hr>
-- 🔭 I’m currently working on **Automation Project**
+- 🔭 I’m currently working on ** MERN PROJECTS **
 
-- 🌱 I’m currently learning **Web Development , C++ , Python**
+- 🌱 I’m currently learning **Web Development , C++ , Python, MERN Stack Developement**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
 - 💬 Ask me about **Web Development , C++ , Python**
 
 - 📫 How to reach me **rounak10roy@gmail.com**
+
+  📫 Check My Portfolio Website **(https://rounakroy.netlify.app/)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:31400449/?edit=true](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:31400449/?edit=true)
 
