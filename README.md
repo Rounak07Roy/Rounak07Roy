@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rounakr56165246" target="blank"><img src="https://img.shields.io/twitter/follow/rounakr56165246?logo=twitter&style=for-the-badge" alt="rounakr56165246" /></a> </p>
 <hr>
-- 🔭 I’m currently working on ** MERN PROJECTS **
+- 🔭 I’m currently working on **MERN PROJECTS**
 
 - 🌱 I’m currently learning **Web Development , C++ , Python, MERN Stack Developement**
 
